@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshanirliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="harshanirliyanage" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshanirliyanage" alt="harshanirliyanage" /></a> </p>
 
 - 🎓 I'm currently studying **SLIIT**
 
