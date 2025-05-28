@@ -1,32 +1,21 @@
 <div align="center">
   <h1>👋 Hi, I'm Harshani R Liyanage</h1>
-  <h3>Passionate IT Undergraduate | Problem Solver | Code Enthusiast</h3>
-  <p>Turning ideas into reality through code, one project at a time. I love exploring new technologies and building impactful solutions! ☕💻</p>
+  <h3>IT Undergraduate | Code Enthusiast | Problem Solver</h3>
+  <p>Crafting innovative solutions with code, fueled by curiosity and coffee! ☕💻</p>
 
-  <img src="https://komarev.com/ghpvc/?username=harshanirliyanage&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/harshanirliyanage?tab=repositories"><img src="https://img.shields.io/github/stars/harshanirliyanage?affiliations=OWNER&style=flat-square&label=Stars&color=yellow" alt="GitHub Stars" /></a>
-  <a href="https://github.com/harshanirliyanage"><img src="https://img.shields.io/github/followers/harshanirliyanage?label=Follow&style=social" alt="Follow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=harshanirliyanage&label=Profile%20Views&color=1e1e2e&style=flat-square&logoColor=white" alt="Profile Views" />
+  <a href="https://github.com/harshanirliyanage?tab=repositories"><img src="https://img.shields.io/github/stars/harshanirliyanage?affiliations=OWNER&style=flat-square&label=Stars&color=FFD700&logoColor=white&labelColor=1e1e2e" alt="GitHub Stars" /></a>
+  <a href="https://github.com/harshanirliyanage"><img src="https://img.shields.io/github/followers/harshanirliyanage?label=Follow&style=flat-square&color=1e1e2e&logoColor=white" alt="Follow" /></a>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Undergraduate at SLIIT**, pursuing a degree in Information Technology
-- 💻 Skilled in **Python**, **Java**, **JavaScript**, and more
-- 🌟 Passionate about problem-solving, software development, and open-source contributions
+- 🎓 Studying **Information Technology** at **SLIIT**
+- 💻 Proficient in **Python**, **Java**, **JavaScript**, and more
+- 🌟 Passionate about building impactful software and exploring new tech
 - 📫 Reach me at: **raveeshaharshani21@gmail.com**
-- 🛠 Currently working on: Building innovative web and data-driven projects
-- ⚡ Fun fact: I fuel my coding sessions with coffee and curiosity!
-
----
-
-### 🏆 Achievements & Certifications
-<p align="center">
-  <a href="https://hacktoberfest.com/profile/"><img src="https://img.shields.io/badge/Hacktoberfest-2024%20Contributor-brightgreen?style=flat-square" alt="Hacktoberfest 2024" /></a>
-  <img src="https://img.shields.io/badge/Coursera-Python%20for%20Data%20Science-blue?style=flat-square&logo=coursera" alt="Coursera Python" />
-  <img src="https://img.shields.io/badge/Java-Oracle%20Certified%20Associate-orange?style=flat-square&logo=java" alt="Java Certification" />
-  <img src="https://img.shields.io/badge/GitHub-Profile%20Trophy-gold?style=flat-square" alt="GitHub Trophy" />
-</p>
+- ⚡ Fun fact: I turn caffeine into clean code and creative solutions!
 
 ---
 
@@ -54,27 +43,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshanirliyanage&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshanirliyanage&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=harshanirliyanage&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshanirliyanage&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshanirliyanage&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshanirliyanage&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophy" />
 </p>
-
----
-
-### 🌟 Featured Projects
-- **[Portfolio Website](https://github.com/harshanirliyanage/portfolio)**: A responsive personal website showcasing my skills and projects, built with HTML, CSS, and JavaScript.  
-  ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-- **[Task Manager](https://github.com/harshanirliyanage/task-manager)**: A full-stack app for task management with user authentication, built with Python and MySQL.  
-  ![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
-- **[Weather App](https://github.com/harshanirliyanage/weather-app)**: A web app displaying real-time weather data using the OpenWeatherMap API and JavaScript.  
-  ![Status](https://img.shields.io/badge/Status-Completed-blue)
 
 ---
 
 ### 📱 Connect with Me
 <p align="center">
   <a href="https://instagram.com/harshaniraveesha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="mailto:raveeshaharshani21@gmail.com"><img src="https://img.shields.io/badge/Email-raveeshaharshani21%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="mailto:raveeshaharshani21@gmail.com"><img src="https://img.shields.io/badge/Email-raveeshaharshani21%40gmail.com-red?style=flat-square&color=1e1e2e&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -85,5 +64,5 @@
 </p>
 
 <div align="center">
-  <p><i>Let's build something amazing together! 🚀</i></p>
+  <p><i>Let's code the future together! 🚀</i></p>
 </div>
