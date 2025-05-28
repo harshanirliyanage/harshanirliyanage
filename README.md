@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/harshanirliyanage/harshanirliyanage/main/assets/banner.png" alt="Dark Theme Banner" width="100%" style="max-width: 800px; border-radius: 10px;"/>
   <h1>👋 Hi, I'm Harshani R Liyanage</h1>
   <h3>IT Undergraduate | Code Enthusiast | Problem Solver</h3>
   <p>Crafting innovative solutions with code, fueled by curiosity and coffee! ☕💻</p>
 
-  <img src="https://komarev.com/ghpvc/?username=harshanirliyanage&label=Profile%20Views&color=181818&style=flat-square&logoColor=ffffff" alt="Profile Views" />
-  <a href="https://github.com/harshanirliyanage?tab=repositories"><img src="https://img.shields.io/github/stars/harshanirliyanage?affiliations=OWNER&style=flat-square&label=Stars&color=FFD700&labelColor=181818&logoColor=ffffff" alt="GitHub Stars" /></a>
-  <a href="https://github.com/harshanirliyanage"><img src="https://img.shields.io/github/followers/harshanirliyanage?label=Follow&style=flat-square&color=181818&logoColor=ffffff" alt="Follow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=harshanirliyanage&label=Profile%20Views&color=1e1e2e&style=flat-square&logoColor=white" alt="Profile Views" />
+  <a href="https://github.com/harshanirliyanage?tab=repositories"><img src="https://img.shields.io/github/stars/harshanirliyanage?affiliations=OWNER&style=flat-square&label=Stars&color=FFD700&logoColor=white&labelColor=1e1e2e" alt="GitHub Stars" /></a>
+  <a href="https://github.com/harshanirliyanage"><img src="https://img.shields.io/github/followers/harshanirliyanage?label=Follow&style=flat-square&color=1e1e2e&logoColor=white" alt="Follow" /></a>
 </div>
 
 ---
@@ -14,7 +13,7 @@
 ### 🚀 About Me
 - 🎓 Studying **Information Technology** at **SLIIT**
 - 💻 Proficient in **Python**, **Java**, **JavaScript**, and more
-- 🌟 Passionate about building real-world web applications, crafting intuitive UIs, and ensuring quality through testing
+- 🌟 Passionate about building impactful software and exploring new tech
 - 📫 Reach me at: **raveeshaharshani21@gmail.com**
 - ⚡ Fun fact: I turn caffeine into clean code and creative solutions!
 
@@ -44,9 +43,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshanirliyanage&show_icons=true&theme=dracula&hide_border=true&bg_color=181818&title_color=FFD700&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshanirliyanage&layout=compact&theme=dracula&hide_border=true&bg_color=181818&title_color=FFD700&text_color=FFFFFF" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=harshanirliyanage&theme=gruvbox&no-frame=true&margin-w=10&column=6" alt="GitHub Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshanirliyanage&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshanirliyanage&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshanirliyanage&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -54,7 +53,7 @@
 ### 📱 Connect with Me
 <p align="center">
   <a href="https://instagram.com/harshaniraveesha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="mailto:raveeshaharshani21@gmail.com"><img src="https://img.shields.io/badge/Email-raveeshaharshani21%40gmail.com-181818?style=flat-square&logo=gmail&logoColor=FFFFFF" alt="Email" /></a>
+  <a href="mailto:raveeshaharshani21@gmail.com"><img src="https://img.shields.io/badge/Email-raveeshaharshani21%40gmail.com-red?style=flat-square&color=1e1e2e&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
