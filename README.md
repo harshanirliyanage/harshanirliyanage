@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Harshani R Liyanage</h1>
+  <h1>👋 Hi, I'm Raveesha Harshani</h1>
   <h3>IT Undergraduate | Code Enthusiast | Problem Solver</h3>
   <p>Crafting innovative solutions with code, fueled by curiosity and coffee! ☕💻</p>
 
